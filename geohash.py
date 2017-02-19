@@ -1,5 +1,9 @@
 #!/usr/sbin/env python
 #fileencoding=utf-8
+'''
+@author: huangjin (Jeff)
+@email: hj51yc@gmail.com
+'''
 
 import sys
 
